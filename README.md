@@ -1,0 +1,1 @@
+# rx-mongo-collection-trim
